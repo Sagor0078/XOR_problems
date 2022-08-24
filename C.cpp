@@ -1,3 +1,5 @@
+//https://atcoder.jp/contests/arc146/tasks/arc146_c
+
 #include<bits/stdc++.h>
 #define ll int64_t
 #define vi vector<int>
