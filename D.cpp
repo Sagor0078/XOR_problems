@@ -1,3 +1,6 @@
+
+//https://codeforces.com/contest/1721/problem/D
+
 #include<bits/stdc++.h>
 #define ll int64_t
 #define vi vector<int>
